@@ -27,8 +27,11 @@ streamlit run chatbot.py
 # Project Structure
 📦 rag-application
 │
+
 ├── chatbot.py            # Main application logic
+
 ├── requirements.txt      # Python dependencies
+
 └── README.md             # Project documentation
 
 # How It Works
